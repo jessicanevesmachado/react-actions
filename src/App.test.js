@@ -9,6 +9,6 @@ test("renders learn react link", () => {
 
 describe("Sum", () => {
   it("should return 4", () => {
-    expect(2 + 3).toBe(4);
+    expect(2 + 2).toBe(4);
   });
 });
